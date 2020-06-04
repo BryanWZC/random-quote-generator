@@ -2,7 +2,7 @@
 
 ## What it does?
 
-Simply produces a random quote each time the 'new quote' button is pressed.
+App that produces a random quote with the click of a button.
 
 ## How to run
 
