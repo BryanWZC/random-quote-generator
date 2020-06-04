@@ -52,7 +52,7 @@ class App extends Component {
 
         {this.boxAnimate()}
         <div id="quote-box">
-          <h1 id = 'heading'> &#8220; Random Quote Generator &#8220;</h1>
+          <h1 id = 'heading'> &#8220; Random Quote Generator &#8221;</h1>
           <h2 id='text'>{quote.quote}</h2>
           <h4 id = 'author'>{quote.author}</h4>
           <button id = 'new-quote' onClick = {this.handleClick}><h4>New Quote</h4></button>
